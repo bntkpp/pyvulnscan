@@ -1,0 +1,5 @@
+python-nmap
+requests
+jinja2
+python-dotenv
+rich

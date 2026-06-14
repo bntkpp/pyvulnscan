@@ -1,0 +1,26 @@
+# Entorno virtual
+venv/
+.venv/
+
+# Variables de entorno
+.env
+.env.*
+
+# Reportes generados
+reporte.json
+reporte.html
+report.json
+report.html
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# IDEs
+.vscode/
+.idea/
+
+# Windows
+Thumbs.db
+desktop.ini
